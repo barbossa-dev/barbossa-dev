@@ -1,101 +1,145 @@
 <table>
-  <tr>
-    <td width="60%">
-      <h2>Hi there 👋 I'm Farhad Ranjbar</h2>
-      <p>
-        A passionate Android and full-stack developer with over 6 years of experience in mobile and backend development.<br>
-        Currently working as an Android Developer at <strong>Aryamanesh (Legaro)</strong>.<br>
-        Previously worked at <strong>Daneshjooyar</strong> as an Android Developer and Instructor.<br>
-        Skilled in Kotlin, Flutter, Golang, Rust, Python, and more. I love learning, solving complex problems, and working with Linux systems.<br>
-        Beyond coding, I enjoy playing the violin and skating to keep my mind fresh and motivated. 🎻🛹
-      </p>
-    </td>
-    <td>
-      <img src=".github/resource/super_logo.jpg" width="250" alt="logo"/>
-    </td>
-  </tr>
+<tr>
+<td width="60%">
+
+# Hi, I'm Farhad Ranjbar 👋
+
+**Android Engineer | Kotlin | Flutter | Golang**
+
+Android developer with 6+ years of experience building mobile applications and backend systems.
+
+My main focus is **modern Android development with Kotlin and Jetpack Compose**, while also working with **Flutter for cross‑platform apps and Golang for backend services**.
+
+I enjoy building scalable architectures, solving complex problems, and working close to the system layer.
+
+🎻 Violin player  
+🛹 Skater  
+🐧 Linux enthusiast
+
+</td>
+
+<td>
+<img src=".github/resource/super_logo.jpg" width="250" alt="logo"/>
+</td>
+
+</tr>
 </table>
 
 ---
 
-### 🚀 About Me
+# 🚀 About Me
 
-- 🧠 Started programming at age 12
-- 📱 Android Developer @ Aryamanesh (Legaro)
-- 👨‍🏫 Former Android Developer & Instructor @ Daneshjooyar
-- 💼 Founder of **FamaStudio** & **GriffinStudio**
-- 🏆 Multiple national and provincial awards (Khwarizmi, Omid-e-Farda)
-- 📍 Based in Birjand, Iran
-- 🖥️ Linux enthusiast
-
----
-
-### 🛠 Tech Stack
-
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+- Android Developer at **Aryamanesh (Legaro Smart Home)**
+- Former **Android Developer & Instructor at Daneshjooyar**
+- Founder of **FamaStudio** and **GriffinStudio**
+- Started programming at **12 years old**
+- 6+ years experience in software development
+- Based in **Birjand, Iran**
 
 ---
 
-### 🧱 Architectures
+# 🧠 Tech Stack
 
-I’ve worked with multiple architectures in mobile and backend software development:
+### Mobile Development
 
-- 🧩 MVVM (Model-View-ViewModel)
-- 🔄 MVI (Model-View-Intent)
-- 🧠 MVP (Model-View-Presenter)
-- 📦 NIA (Now in Android architecture by Google)
-- 🧱 Hexagonal (Ports & Adapters)
-- 🏗️ Multi-layered (Data, Domain, Presentation)
-- ✨ ...and custom hybrid solutions
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter" />
+</p>
 
----
+### Backend
 
-### 🌟 Featured Projects
+<p>
+<img src="https://skillicons.dev/icons?i=go,rust,ruby,python" />
+</p>
 
-#### 🧪 Open Source Projects
-- [☁️ Weather App](https://github.com/barbossa-dev/weather)
-- [📅 Jetpack Compose Date Picker](https://github.com/alirezaahmadi056/date-picker)
-- [🎯 Compose Scroll Picker](https://github.com/barbossa-dev/ComposeScrollPicker)
-- [🍽️ AR Restaurant Menu](https://github.com/barbossa-dev/GriffinRestaurant)
+### Systems & Tools
 
-#### 🔒 Commercial Projects (Source Code Not Available)
-- 🧠 **Amozeshgam** — educational mobile app
-- 🌐 **Bilingual** — language learning application
-- 🏠 **Legaro** — smart home automation platform
-- 🧩 ...and other internal systems & client projects
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,docker" />
+</p>
 
----
+### Architecture
 
-### 📈 GitHub Stats
-
-![Farhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbossa-dev&show_icons=true&theme=radical)
+- MVVM  
+- MVI  
+- Clean Architecture  
+- Hexagonal Architecture  
 
 ---
 
-### 📫 Contact Me
+# ⭐ Featured Projects
 
-[![Email](https://img.shields.io/badge/Email-barbossa.fama.dev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barbossa.fama.dev@gmail.com)  
-[![Telegram](https://img.shields.io/badge/Telegram-%40barbossa--dev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/barbossa-dev)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhad_Ranjbar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhad-ranjbar-0b81a5357)  
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Barbossa-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/24032447/barbossa)
+### 🧠 Mindraft (Minote)
+AI‑powered note and idea management application focused on organizing thoughts and creative workflows.
 
 ---
 
-### 🏅 Achievements
+### 🌦 Weather App
+Modern Android weather application built with Kotlin and modern Android architecture.
 
-- 🥇 1st Place, National Khwarizmi Youth Festival
-- 🥇 1st Place, National Omid-e-Farda Festival
-- 🥇 Top Place, Provincial Youth Competitions
+https://github.com/barbossa-dev/weather
 
 ---
 
-> ✨ *Thanks for visiting! Let’s build something great together.*
+### 🎛 Compose Scroll Picker
+Reusable Jetpack Compose component for building smooth scroll picker interfaces.
+
+https://github.com/barbossa-dev/ComposeScrollPicker
+
+---
+
+### 📅 Date Picker
+Custom Android date picker component with flexible UI design.
+
+https://github.com/alirezaahmadi056/date-picker
+
+---
+
+### 🍽 Griffin Restaurant (AR Menu)
+Augmented reality based restaurant menu application.
+
+https://github.com/barbossa-dev/GriffinRestaurant
+
+---
+
+### 🏠 Legaro Smart Home
+Android application for IoT smart home systems integrated with hardware devices.
+
+---
+
+### 🌍 Bilingual
+Commercial mobile application developed for language learning.
+
+---
+
+# 🏆 Achievements
+
+🥇 **1st Place – National Khwarizmi Youth Festival**  
+🥇 **1st Place – National Omid‑e‑Farda Competition**  
+🥇 **1st Place – Provincial Omid‑e‑Farda Competition**  
+🏅 **Provincial Rank – Young Khwarizmi Festival**
+
+---
+
+# 📊 GitHub Stats
+
+<p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=barbossa-dev&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbossa-dev&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 📫 Contact Me
+
+- Gmail: **barbossa.fama.dev@gmail.com**
+- Telegram: https://t.me/barbossa_dev
+- GitHub: https://github.com/barbossa-dev
+- LinkedIn: https://linkedin.com/in/farhad-ranjbar-645625383
+
+---
+
+⭐ If you like my work, feel free to explore my repositories.
