@@ -119,6 +119,7 @@ Commercial mobile application developed for language learning.
 🥇 **1st Place – Provincial Omid‑e‑Farda Competition**  
 🏅 **Provincial Rank – Young Khwarizmi Festival** <br/>
 <img src="https://androidweekly.net/issues/issue-730/badge" />
+<img src="https://androidweekly.net/issues/issue-744/badge" />
 ---
 
 # 📊 GitHub Stats
