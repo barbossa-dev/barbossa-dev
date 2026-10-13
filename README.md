@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/barbossa-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Android+Engineer+%E2%80%A2+Kotlin+%26+Jetpack+Compose;Now+building+for+iOS+with+Swift+%F0%9F%8D%8E;Flutter+%E2%80%A2+Go+%E2%80%A2+Rust+%E2%80%A2+C%2B%2B;Hobby+OS+developer+%F0%9F%90%A7" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Android+Engineer+%E2%80%A2+Kotlin+%26+Jetpack+Compose;Shipping+native+iOS+apps+with+Swift+%F0%9F%8D%8E;Full-stack+mobile%3A+Android+%2B+iOS+%2B+Backend;Flutter+%E2%80%A2+Go+%E2%80%A2+Rust+%E2%80%A2+C%2B%2B;Hobby+OS+developer+%F0%9F%90%A7" alt="typing" />
   </a>
 </p>
 
@@ -29,14 +29,15 @@
 ### 👋 Hey, I'm Farhad
 
 I'm a **mobile engineer** with **6+ years** of experience shipping Android apps — from IoT smart‑home control to AR restaurant menus.
-I live in **Kotlin + Jetpack Compose**, build cross‑platform with **Flutter**, write backends in **Go**, and lately I've been bringing the same craft to **iOS with Swift & SwiftUI**.
+I live in **Kotlin + Jetpack Compose**, build cross‑platform with **Flutter**, write backends in **Go**, and now ship native **iOS apps with Swift & SwiftUI** too — taking products from Android to iOS to the server behind them.
 
 I like clean architecture, hard problems, and working close to the metal — which is why I also build **hobby operating systems** in Rust and C++.
 
 - 📱 Android Developer @ **Aryamanesh — Legaro Smart Home**
 - 🎓 Former Android Developer & Instructor @ **Daneshjooyar**
 - 🚀 Founder of **FamaStudio** & **GriffinStudio**
-- 🍎 Currently learning: **Swift · SwiftUI · iOS**
+- 🍎 Now shipping native **iOS** apps with **Swift** — DaneshPlus & Mindraft
+- 🧩 Full‑stack mobile: Android + iOS + Go backend for **Mindraft**
 - 📰 Featured in **Android Weekly** (#730, #744)
 - 📍 Birjand, Iran · coding since age **12**
 
@@ -61,7 +62,7 @@ I like clean architecture, hard problems, and working close to the metal — whi
 
 **Architecture:** `MVVM` · `MVI` · `Clean Architecture` · `Hexagonal`
 **Android:** `Jetpack Compose` · `Coroutines & Flow` · `Hilt` · `Room` · `Retrofit`
-**iOS (learning):** `SwiftUI` · `Combine` · `async/await`
+**iOS:** `Swift` · `SwiftUI` · `Combine` · `async/await`
 
 ---
 
@@ -74,13 +75,19 @@ I like clean architecture, hard problems, and working close to the metal — whi
 >
 > Happy to walk through architecture, decisions, and results from that work in a conversation. 🤝
 
+> [!TIP]
+> **About my teaching repositories**
+> Some public projects here were built specifically for **recorded courses and live teaching sessions**. In those, the code is intentionally kept simple and step‑by‑step so students can follow along — which means production‑grade architecture is sometimes deliberately set aside in favor of clarity.
+> They're best read as **learning material**, not as a reflection of how I structure production systems.
+
 ---
 
 ## ⭐ Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| 🧠 **Mindraft (Minote)** `🔒 private` | AI‑powered notes & idea manager for organizing thoughts and creative workflows | Kotlin · AI |
+| 🧠 **Mindraft (Minote)** `🔒 private` | AI‑powered notes & idea manager — **built end‑to‑end by me**: native Android, native iOS, and the Go backend | Kotlin · Swift · Go · AI |
+| 🎓 **DaneshPlus — iOS** `🔒 private` | Native iOS version of the DaneshPlus learning platform | Swift · SwiftUI |
 | 🏠 **Legaro Smart Home** `🔒 private` | Android app controlling IoT smart‑home hardware | Kotlin · IoT |
 | 🍽 **[Griffin Restaurant](https://github.com/barbossa-dev/GriffinRestaurant)** | Augmented‑reality restaurant menu | Kotlin · AR |
 | 🌦 **[Weather](https://github.com/barbossa-dev/weather)** | Modern weather app with clean architecture | Kotlin · Compose |
